@@ -1,63 +1,63 @@
 [
   {
     "code": "clearsky",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "fair",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "partlycloudy",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "cloudy",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "rainshowers",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "rainshowersandthunder",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "sleetshowers",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "COsnowshowers",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "rain",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "heavyrain",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "heavyrainandthunder",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "sleet",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "snow",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "snowandthunder",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "fog",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "non",
@@ -77,63 +77,63 @@
   },
   {
     "code": "sleetshowersandthunder",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "snowshowersandthunder",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "rainandthunder",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "sleetandthunder",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "lightrainshowersandthunder",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "heavyrainshowersandthunder",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "lightssleetshowersandthunder",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "heavysleetshowersandthunder",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "lightssnowshowersandthunder",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "heavysnowshowersandthunder",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "lightrainandthunder",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "lightsleetandthunder",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "heavysleetandthunder",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "lightsnowandthunder",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "heavysnowandthunder",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "non",
@@ -157,46 +157,46 @@
   },
   {
     "code": "lightrainshowers",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "heavyrainshowers",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "lightsleetshowers",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "heavysleetshowers",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "lightsnowshowers",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "heavysnowshowers",
-    "dayNight": "true"
+    "dayNight": true
   },
   {
     "code": "lightrain",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "lightsleet",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "heavysleet",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "lightsnow",
-    "dayNight": "false"
+    "dayNight": false
   },
   {
     "code": "heavysnow",
-    "dayNight": "false"
+    "dayNight": false
   }
 ]
