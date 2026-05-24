@@ -1,0 +1,252 @@
+[
+  {
+    "code": "clearsky",
+    "description": "Description for item 0",
+    "fileName": "file_0.json"
+  },
+  {
+    "code": "fair",
+    "description": "Description for item 1",
+    "fileName": "file_1.json"
+  },
+  {
+    "code": "partlycloudy",
+    "description": "Description for item 2",
+    "fileName": "file_2.json"
+  },
+  {
+    "code": "cloudy",
+    "description": "Description for item 3",
+    "fileName": "file_3.json"
+  },
+  {
+    "code": "rainshowers",
+    "description": "Description for item 4",
+    "fileName": "file_4.json"
+  },
+  {
+    "code": "rainshowersandthunder",
+    "description": "Description for item 5",
+    "fileName": "file_5.json"
+  },
+  {
+    "code": "sleetshowers",
+    "description": "Description for item 6",
+    "fileName": "file_6.json"
+  },
+  {
+    "code": "COsnowshowers",
+    "description": "Description for item 7",
+    "fileName": "file_7.json"
+  },
+  {
+    "code": "rain",
+    "description": "Description for item 8",
+    "fileName": "file_8.json"
+  },
+  {
+    "code": "heavyrain",
+    "description": "Description for item 9",
+    "fileName": "file_9.json"
+  },
+  {
+    "code": "heavyrainandthunder",
+    "description": "Description for item 10",
+    "fileName": "file_10.json"
+  },
+  {
+    "code": "sleet",
+    "description": "Description for item 11",
+    "fileName": "file_11.json"
+  },
+  {
+    "code": "snow",
+    "description": "Description for item 12",
+    "fileName": "file_12.json"
+  },
+  {
+    "code": "snowandthunder",
+    "description": "Description for item 13",
+    "fileName": "file_13.json"
+  },
+  {
+    "code": "fog",
+    "description": "Description for item 14",
+    "fileName": "file_14.json"
+  },
+  {
+    "code": "non",
+    "description": "Description for item 15",
+    "fileName": "file_15.json"
+  },
+  {
+    "code": "non",
+    "description": "Description for item 16",
+    "fileName": "file_16.json"
+  },
+  {
+    "code": "non",
+    "description": "Description for item 17",
+    "fileName": "file_17.json"
+  },
+  {
+    "code": "non",
+    "description": "Description for item 18",
+    "fileName": "file_18.json"
+  },
+  {
+    "code": "sleetshowersandthunder",
+    "description": "Description for item 19",
+    "fileName": "file_19.json"
+  },
+  {
+    "code": "snowshowersandthunder",
+    "description": "Description for item 20",
+    "fileName": "file_20.json"
+  },
+  {
+    "code": "rainandthunder",
+    "description": "Description for item 21",
+    "fileName": "file_21.json"
+  },
+  {
+    "code": "sleetandthunder",
+    "description": "Description for item 22",
+    "fileName": "file_22.json"
+  },
+  {
+    "code": "lightrainshowersandthunder",
+    "description": "Description for item 23",
+    "fileName": "file_23.json"
+  },
+  {
+    "code": "heavyrainshowersandthunder",
+    "description": "Description for item 24",
+    "fileName": "file_24.json"
+  },
+  {
+    "code": "lightssleetshowersandthunder",
+    "description": "Description for item 25",
+    "fileName": "file_25.json"
+  },
+  {
+    "code": "heavysleetshowersandthunder",
+    "description": "Description for item 26",
+    "fileName": "file_26.json"
+  },
+  {
+    "code": "lightssnowshowersandthunder",
+    "description": "Description for item 27",
+    "fileName": "file_27.json"
+  },
+  {
+    "code": "heavysnowshowersandthunder",
+    "description": "Description for item 28",
+    "fileName": "file_28.json"
+  },
+  {
+    "code": "lightrainandthunder",
+    "description": "Description for item 29",
+    "fileName": "file_29.json"
+  },
+  {
+    "code": "lightsleetandthunder",
+    "description": "Description for item 30",
+    "fileName": "file_30.json"
+  },
+  {
+    "code": "heavysleetandthunder",
+    "description": "Description for item 31",
+    "fileName": "file_31.json"
+  },
+  {
+    "code": "lightsnowandthunder",
+    "description": "Description for item 32",
+    "fileName": "file_32.json"
+  },
+  {
+    "code": "heavysnowandthunder",
+    "description": "Description for item 33",
+    "fileName": "file_33.json"
+  },
+  {
+    "code": "non",
+    "description": "Description for item 34",
+    "fileName": "file_34.json"
+  },
+  {
+    "code": "non",
+    "description": "Description for item 35",
+    "fileName": "file_35.json"
+  },
+  {
+    "code": "non",
+    "description": "Description for item 36",
+    "fileName": "file_36.json"
+  },
+  {
+    "code": "non",
+    "description": "Description for item 37",
+    "fileName": "file_37.json"
+  },
+  {
+    "code": "non",
+    "description": "Description for item 38",
+    "fileName": "file_38.json"
+  },
+  {
+    "code": "lightrainshowers",
+    "description": "Description for item 39",
+    "fileName": "file_39.json"
+  },
+  {
+    "code": "heavyrainshowers",
+    "description": "Description for item 40",
+    "fileName": "file_40.json"
+  },
+  {
+    "code": "lightsleetshowers",
+    "description": "Description for item 41",
+    "fileName": "file_41.json"
+  },
+  {
+    "code": "heavysleetshowers",
+    "description": "Description for item 42",
+    "fileName": "file_42.json"
+  },
+  {
+    "code": "lightsnowshowers",
+    "description": "Description for item 43",
+    "fileName": "file_43.json"
+  },
+  {
+    "code": "heavysnowshowers",
+    "description": "Description for item 44",
+    "fileName": "file_44.json"
+  },
+  {
+    "code": "lightrain",
+    "description": "Description for item 45",
+    "fileName": "file_45.json"
+  },
+  {
+    "code": "lightsleet",
+    "description": "Description for item 46",
+    "fileName": "file_46.json"
+  },
+  {
+    "code": "heavysleet",
+    "description": "Description for item 47",
+    "fileName": "file_47.json"
+  },
+  {
+    "code": "lightsnow",
+    "description": "Description for item 48",
+    "fileName": "file_48.json"
+  },
+  {
+    "code": "heavysnow",
+    "description": "Description for item 49",
+    "fileName": "file_49.json"
+  }
+]
